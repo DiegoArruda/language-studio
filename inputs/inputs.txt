@@ -1,0 +1,17 @@
+Positive Sentences:
+
+"I love spending time with my family and friends."
+"This product exceeded my expectations! Highly recommended."
+"The customer service was outstanding, and they solved my problem quickly."
+
+Negative Sentences:
+
+"I was very disappointed with the service; it took too long."
+"This was the worst experience I’ve ever had at a restaurant."
+"The product broke after just one day of use. Totally not worth the money."
+
+Neutral Sentences:
+
+"The weather today is partly cloudy with a chance of rain."
+"I bought a new book yesterday and started reading it."
+"The meeting is scheduled for 3 PM tomorrow."
